@@ -16,7 +16,7 @@ You can download the CIFAR-10 dataset from the following link: https://www.cs.to
 We use a convolutional neural network (CNN) model to recognize objects in photographs. The model consists of several convolutional layers, flatten layers, pooling layers, and fully connected layers.
 
 ## Results
-Our CNN model achieved an accuracy of 67.60% for simple CNN model and  % for large CNN model on the CIFAR-10 test dataset.See the python codes and outputs for details.
+Our CNN model achieved an accuracy of 67.60% for simple CNN model and  80.34% for large CNN model on the CIFAR-10 test dataset. See the python codes and outputs for details.
 
 ## Conclusion
 In conclusion, this project demonstrates how to use deep learning techniques with the CIFAR-10 dataset to recognize objects in photographs. With some fine-tuning, the model can achieve even better accuracy.
