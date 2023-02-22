@@ -13,7 +13,7 @@ TensorFlow (When you install TensorFlow 2.0+, Keras will be automatically instal
 You can download the CIFAR-10 dataset from the following link: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz. The dataset is divided into five batches, stored in the cifar-10-batches-py folder.
 
 ## Model
-We use a convolutional neural network (CNN) model to recognize objects in photographs. The model consists of several convolutional layers, flatten layers,pooling layers, and fully connected layers.
+We use a convolutional neural network (CNN) model to recognize objects in photographs. The model consists of several convolutional layers, flatten layers, pooling layers, and fully connected layers.
 
 ## Results
 Our CNN model achieved an accuracy of 67.60% for simple CNN model and  % for large CNN model on the CIFAR-10 test dataset.See the 
