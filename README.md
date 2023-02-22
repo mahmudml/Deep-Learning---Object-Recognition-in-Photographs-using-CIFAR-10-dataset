@@ -5,7 +5,7 @@ This project aims to recognize objects in photographs using deep learning techni
 ## Getting Started
 To get started with this project, you will need to have Python 3 and the following libraries installed:
 
-TensorFlow (Keras comes as a part of TensorFlow 2.0+, as well)
+TensorFlow: Keras is now integrated into TensorFlow 2.0+, meaning that when you install TensorFlow 2.0+, Keras is automatically installed as well. This integration allows for a seamless user experience and makes it easier to build and train neural networks using the Keras API. With TensorFlow 2.0+, you can use the tf.keras module to define and train your neural network models using Keras.
 
 
 
